@@ -1,0 +1,74 @@
+h1 {
+  color: rgb(64, 64, 73);
+  background-color: antiquewhite;
+  font-size: 30px;
+}
+.world {
+  color: black;
+  background-color: burlywood;
+  
+}
+.important {
+  color: aqua;
+  background-color: beige;
+}
+#note {
+  color: blueviolet;
+  font-size: 23px;
+}
+del {
+  color: pink;
+}
+div {
+  color: white;
+  background-color: teal;
+}
+em {
+  color: chartreuse;
+}
+figure {
+  color: cornsilk;
+}
+i {
+  color: cornflowerblue;
+}
+main {
+  color: darkgoldenrod;
+}
+q {
+  color: darkolivegreen;
+}
+s {
+  color: darkred;
+}
+small {
+  color: crimson;
+}
+sub {
+  color: coral;
+}
+sup {
+  color: cyan;
+}
+pre {
+  color: aquamarine;
+}
+kbd {
+  color: purple;
+}
+ins {
+  color: rgb(255, 192, 192);
+}
+dl {
+  color: rgb(216, 210, 221);
+}
+dfn {
+  color: rgb(222, 192, 135);
+}
+button {
+  color: rgb(133, 255, 11);
+}
+address {
+  color: rgb(0, 0, 0);
+}
+
